@@ -20,13 +20,7 @@ This repository contains code for generating a comprehensive dataset to analyze 
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/portfolio-performance-analysis.git
-    cd portfolio-performance-analysis
-    ```
-
-2. Install the required Python libraries:
+ Install the required Python libraries:
     ```sh
     pip install pandas numpy yfinance
     ```
